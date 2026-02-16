@@ -222,9 +222,9 @@ results = optimizer.optimize()
 **Ali Pervanoğlu**  
 Data Analyst | Supply Chain Optimization  
 
-- 💼 LinkedIn: [linkedin.com/in/alpervanoglu](https://linkedin.com/in/alpervanoglu)
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Website]
+- 💼 LinkedIn: www.linkedin.com/in/alipervanoglu-da
+- 📧 Email: alipervanoglu@gmail.com
+  
 
 ---
 
@@ -471,9 +471,9 @@ results = optimizer.optimize()
 **Ali Pervanoğlu**  
 Veri Analisti | Tedarik Zinciri Optimizasyonu  
 
-- 💼 LinkedIn: [linkedin.com/in/alpervanoglu](https://linkedin.com/in/alpervanoglu)
-- 📧 Email: [Email Adresiniz]
-- 🌐 Portfolio: [Website Adresiniz]
+- 💼 LinkedIn: www.linkedin.com/in/alipervanoglu-da
+- 📧 Email: alipervanoglu@gmail.com
+  
 
 ---
 
@@ -504,6 +504,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 **⭐ Bu projeyi değerli bulduysanız, lütfen yıldızlayın! ⭐**
 
-❤️ ve ☕ ile yapıldı - Ali Pervanoğlu
 
-</div>
