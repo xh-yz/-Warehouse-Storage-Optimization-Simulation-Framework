@@ -137,17 +137,14 @@ Payback Period: < 2 weeks
 
 #### Strategic Overview & Diagnostic
 ![Strategic Overview](powerbi/screenshots/01_strategic_overview.png)
-
 *Main operational overview with KPIs, risk zones, and ABC distribution*
 
 #### Operational Bottlenecks & Efficiency
-![Bottleneck Analysis](powerbi/screenshots/02_operational_bottlenecks.png)
-
+![Operational Bottlenecks](powerbi/screenshots/02_operational_bottlenecks.png)
 *Location-level bottleneck scoring and pick density heatmap*
 
 #### Optimization Engine & Financial ROI
-![Simulation Results](powerbi/screenshots/03_financial_roi.png)
-
+![Financial ROI](powerbi/screenshots/03_financial_roi.png)
 *Before/After comparison with financial impact and relocation priorities*
 
 ---
@@ -213,7 +210,7 @@ results = optimizer.optimize()
 
 - [Detailed Methodology](docs/methodology.md)
 - [Data Dictionary](docs/data_dictionary.md)
-- [Power BI Guide](powerbi/README.md)
+- [Power BI Guide](powerbi/warehouse_dashboard.pbix)
 
 ---
 
@@ -462,7 +459,7 @@ results = optimizer.optimize()
 
 - [Detaylı Metodoloji](docs/methodology.md)
 - [Veri Sözlüğü](docs/data_dictionary.md)
-- [Power BI Kılavuzu](powerbi/README.md)
+- [Power BI Kılavuzu](powerbi/warehouse_dashboard.pbix)
 
 ---
 
