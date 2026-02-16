@@ -234,9 +234,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🙏 Acknowledgments
 
-- Dataset: Order Picking Dataset from Footwear Manufacturing Warehouse
-- Tools: Python, Power BI, Jupyter
-- Inspiration: Real-world warehouse optimization challenges
+- **Dataset Source:** Furlan de Assis, Rodrigo (2024), “Order Picking Dataset from a Warehouse of a Footwear Manufacturing Company”, Mendeley Data, V1, doi: 10.17632/pf2w725pw3.1
+- **Licence:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Tools:** Python (Pandas/NumPy), Power BI Desktop, Jupyter Notebooks.
 
 ---
 
@@ -480,11 +480,11 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 ---
 
-### 🙏 Teşekkürler
+### 🙏 Teşekkürler / Kaynakça
 
-- Veri Seti: Ayakkabı Üretim Deposu Sipariş Toplama Veri Seti
-- Araçlar: Python, Power BI, Jupyter
-- İlham: Gerçek dünya depo optimizasyonu zorlukları
+- **Veri Seti Kaynağı:** Furlan de Assis, Rodrigo (2024), “Order Picking Dataset from a Warehouse of a Footwear Manufacturing Company”, Mendeley Data, V1, doi: 10.17632/pf2w725pw3.1
+- **Lisans:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Araçlar:** Python (Pandas/NumPy), Power BI Desktop, Jupyter Notebooks.
 
 ---
 
