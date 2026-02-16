@@ -136,15 +136,15 @@ Payback Period: < 2 weeks
 ### 📸 Dashboard Screenshots
 
 #### Strategic Overview & Diagnostic
-![Strategic Overview](powerbi/screenshots/01_strategic_overview.png)
+![Strategic Overview](PowerBI-Screenshots/03_strategic_overview.png)
 *Main operational overview with KPIs, risk zones, and ABC distribution*
 
 #### Operational Bottlenecks & Efficiency
-![Operational Bottlenecks](powerbi/screenshots/02_operational_bottlenecks.png)
+![Operational Bottlenecks](PowerBI-Screenshots/02_operational_efficiency.png)
 *Location-level bottleneck scoring and pick density heatmap*
 
 #### Optimization Engine & Financial ROI
-![Financial ROI](powerbi/screenshots/03_financial_roi.png)
+![Financial ROI](PowerBI-Screenshots/01_financial_roi.png)
 *Before/After comparison with financial impact and relocation priorities*
 
 ---
@@ -158,17 +158,17 @@ Power BI Desktop
 Jupyter Notebook
 ```
 
-#### Installation
+### 🚀 Installation
+
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/warehouse-optimization.git
-cd warehouse-optimization
+git clone [https://github.com/alipervanoglu/Warehouse-Storage-Optimization-Simulation-Framework.git](https://github.com/alipervanoglu/Warehouse-Storage-Optimization-Simulation-Framework.git)
+
+# Go to directory
+cd Warehouse-Storage-Optimization-Simulation-Framework
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Launch Jupyter
-jupyter notebook notebooks/Warehouse_Storage_Optimization.ipynb
 ```
 
 #### Usage
@@ -206,11 +206,12 @@ results = optimizer.optimize()
 
 ---
 
-### 📚 Documentation
+### 📚 Documentation 
 
-- [Detailed Methodology](docs/methodology.md)
+- [Detailed Methodology](docs/DOSYA_YERLESTIRME_REHBERI.md)
 - [Data Dictionary](docs/data_dictionary.md)
-- [Power BI Guide](powerbi/warehouse_dashboard.pbix)
+- [Power BI Report (PDF)](powerbi/dashboard_report.pdf)
+- [License Details](LICENSE)
 
 ---
 
@@ -381,20 +382,18 @@ Geri Ödeme Süresi: < 2 hafta
 
 ### 📸 Dashboard Ekran Görüntüleri
 
-#### Stratejik Genel Bakış ve Tanılama
-![Stratejik Genel Bakış](powerbi/screenshots/01_strategic_overview.png)
-
-*KPI'lar, risk bölgeleri ve ABC dağılımı ile ana operasyonel genel bakış*
+#### Stratejik Genel Bakış ve Diyagnostik
+![Stratejik Bakış](PowerBI-Screenshots/03_strategic_overview.png)
+*KPI'lar, risk bölgeleri ve ABC dağılımı ile temel operasyonel görünüm*
 
 #### Operasyonel Darboğazlar ve Verimlilik
-![Darboğaz Analizi](powerbi/screenshots/02_operational_bottlenecks.png)
-
-*Lokasyon seviyesinde darboğaz skorlaması ve çekim yoğunluğu ısı haritası*
+![Operasyonel Verimlilik](PowerBI-Screenshots/02_operational_efficiency.png)
+*Konum bazlı darboğaz skorlaması ve toplama yoğunluğu ısı haritası*
 
 #### Optimizasyon Motoru ve Finansal ROI
-![Simülasyon Sonuçları](powerbi/screenshots/03_financial_roi.png)
+![Finansal Getiri](PowerBI-Screenshots/01_financial_roi.png)
+*Finansal etki ve yer değiştirme öncelikleri ile Öncesi/Sonrası karşılaştırması*
 
-*Finansal etki ve taşıma öncelikleri ile Önce/Sonra karşılaştırması*
 
 ---
 
@@ -407,17 +406,17 @@ Power BI Desktop
 Jupyter Notebook
 ```
 
-#### Kurulum
+### 🚀 Kurulum
+
 ```bash
-# Repository'yi klonlayın
-git clone https://github.com/kullaniciadi/warehouse-optimization.git
-cd warehouse-optimization
+# Depoyu klonlayın
+git clone [https://github.com/alipervanoglu/Warehouse-Storage-Optimization-Simulation-Framework.git](https://github.com/alipervanoglu/Warehouse-Storage-Optimization-Simulation-Framework.git)
 
-# Bağımlılıkları yükleyin
+# Klasöre girin
+cd Warehouse-Storage-Optimization-Simulation-Framework
+
+# Gereksinimleri yükleyin
 pip install -r requirements.txt
-
-# Jupyter'i başlatın
-jupyter notebook notebooks/Warehouse_Storage_Optimization.ipynb
 ```
 
 #### Kullanım
@@ -457,9 +456,10 @@ results = optimizer.optimize()
 
 ### 📚 Dokümantasyon
 
-- [Detaylı Metodoloji](docs/methodology.md)
+- [Detaylı Metodoloji](docs/DOSYA_YERLESTIRME_REHBERI.md)
 - [Veri Sözlüğü](docs/data_dictionary.md)
-- [Power BI Kılavuzu](powerbi/warehouse_dashboard.pbix)
+- [Power BI Raporu (PDF)](powerbi/dashboard_report.pdf)
+- [Lisans Detayları](LICENSE)
 
 ---
 
