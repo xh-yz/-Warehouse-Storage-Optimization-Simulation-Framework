@@ -209,7 +209,7 @@ results = optimizer.optimize()
 ### 📚 Documentation
 
 - [Detailed Methodology](docs/DOSYA_YERLESTIRME_REHBERI.md)
-- [Raw Datasets](data/)
+- [Raw Datasets](Data/)
 - [Power BI Report (PDF)](PowerBI/dashboard_report.pdf)
 - [License Details](LICENSE)
 
@@ -457,7 +457,7 @@ results = optimizer.optimize()
 ### 📚 Dokümantasyon
 
 - [Detaylı Metodoloji](docs/DOSYA_YERLESTIRME_REHBERI.md)
-- [Ham Veri Setleri](data/)
+- [Ham Veri Setleri](Data/)
 - [Power BI Raporu (PDF)](PowerBI/dashboard_report.pdf)
 - [Lisans Detayları](LICENSE)
 
